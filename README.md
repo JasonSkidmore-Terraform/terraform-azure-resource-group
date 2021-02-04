@@ -2,6 +2,9 @@
 
 ## Simple Module for creating resource group. 
 
+Basic module to show the scaffolding of a module
+
+
 ## Arguments
 
 * `location` - (Optional) Azure location. Defaults to "East US".
